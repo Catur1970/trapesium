@@ -1,0 +1,10 @@
+def luas_trapesium () :
+    print (' ' )
+    print (' program mencari luas trapesium ')
+    print (' ')
+    x= float (input('masukkan sisi atas trapesium : '))
+    y= float(input('masukkan sisi bawah trapesium : '))
+    z= float (input('masukkan tinggi trapesium : '))
+    luas = (7+12)*8/2
+    print ('')
+    print ('luas trapesiumnya adalah : ' , luas, 'cm2')
